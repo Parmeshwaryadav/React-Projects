@@ -1,0 +1,4 @@
+- Input Field - e.taget.value
+- Add Todo Button - Function addTodo
+- ul > li > li.map((val)=> valu)
+- key (index)

@@ -1,0 +1,22 @@
+body {
+  background-color: #a2d2ff;
+}
+
+body > div  {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 5%;
+  align-items: center;
+}
+body div input {
+  padding: 0.4rem;
+  border-radius: 0.6rem;
+}
+body div button {
+  padding: 0.4rem;
+  border-radius: 0.6rem;
+  background-color: purple;
+  color: aliceblue;
+}
+
